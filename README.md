@@ -7,7 +7,7 @@
 
 
 <br>
-🌱 I’m currently learning: Will soon be learning React Native for mobile development
+🌱 I’m currently learning: Soon I will be learning React Native for mobile development
 
 ⚡ Fun fact: I enjoy 3D printing and learning new tech
 
