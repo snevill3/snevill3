@@ -1,15 +1,16 @@
 <img src="https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?cs=srgb&dl=pexels-pixabay-270404.jpg&fm=jpg/">
 <h1 align="center">Hi 👋, I'm Shawn Neville</h1>
-<h3 align="center">Full stack developer<br>currently loving the MERN stack</h3>
+<h3 align="center">Full Stack Developer<br>currently loving the MERN stack</h3>
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snevill3&label=Profile%20views&color=0e75b6&style=flat" alt="snevill3" /> </p>
 
-- 🌱 I’m currently learning **React and will start learning React Native**
+<br>
+🌱 I’m currently learning: Will soon be learning React Native for mobile development
 
-<h3 align="left">Connect with me:</h3>
+⚡ Fun fact: I enjoy 3D printing and learning new tech
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
